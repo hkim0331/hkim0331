@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-repositories are moved to https://github.com/hkimjp and https://codeberg.org/hkimura and other sites.
+Repositories are moved to https://github.com/hkimjp and https://codeberg.org/hkimura and other private sites.
 
 <!--
 **hkim0331/hkim0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
